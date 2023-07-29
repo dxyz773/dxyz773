@@ -1,5 +1,6 @@
 
-<img width="575" alt="Photo1" src="https://github.com/dxyz773/dxyz773/assets/102256981/948cd52a-3e3f-43e7-91e4-db62ac7fba7f">
+<img width="558" alt="Photo3" src="https://github.com/dxyz773/dxyz773/assets/102256981/e1272f93-19c9-4a40-a392-22209b1ae2c9">
+
 
 ----
 
@@ -26,4 +27,5 @@
 ----
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxyz773&layout=compact&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxyz773&layout=compact&theme=midnight-purple&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dxyz773&theme=modern-lilac2)](https://git.io/streak-stats)
