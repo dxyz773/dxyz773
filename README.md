@@ -13,4 +13,6 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxyz773&layout=compact&theme=vision-friendly-dark)
+----
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxyz773&layout=compact&theme=neon)
