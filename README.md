@@ -17,17 +17,19 @@
 ----
 
 ### Contact & Connect
+<a href = "mailto: dxyz773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/demitryedwards/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@dxyz773"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href = "mailto: dxyz773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
 
 ---
 
 
 ### IDEs / Code Editors 
 <a href="https://replit.com/@dxyz773" ><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/></a>
-<a href="https://codesandbox.io/u/dxyz773" ><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://codesandbox.io/u/dxyz773" ><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
+
 
 
 
