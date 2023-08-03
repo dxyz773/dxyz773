@@ -36,5 +36,4 @@
 ----
 
 ### ☆ Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxyz773&layout=compact&theme=midnight-purple&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dxyz773&theme=modern-lilac2)](https://git.io/streak-stats)
