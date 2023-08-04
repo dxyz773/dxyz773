@@ -4,9 +4,38 @@
 
 ----
 
-| Project      	| Homepage Image                                                                                                                  	| Description                                                                                                                           	| Tech Stack                                                             	| Features                                                                                	| Repo                                  	|
-|--------------	|---------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------	|---------------------------------------	|
-| Camp Retro ✿ 	| <img width="350" alt="CampRetro" src="https://github.com/dxyz773/dxyz773/assets/102256981/13b0907f-8f90-41b8-b917-8b5d278887aa"/> 	| Camp Retro is an interactive game where a user signs up as a camper at Camp Retro, plays games, gains tokens, and wins retro prizes.  	| ◦ React <br>◦ Python<br>◦ Flask<br>◦ Python <br>◦ SQLite<br>◦Tailwind 	| ◦ User Signup<br>◦ Virtual Lunchbox<br>◦ Play 'Rock, Paper, Scissors'<br>◦ Retro prizes 	| <a href="https://github.com/dxyz773/camp_retro">Repo</a> 	|
+<table>
+  <thead>
+    <th>Project</th>
+    <th>Image</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Features</th>
+    <th>Repo</th>
+  </thead>
+  <tr>
+    <td> Camp Retro ✿ </td>
+    <td><img width="350" alt="CampRetro" src="https://github.com/dxyz773/dxyz773/assets/102256981/13b0907f-8f90-41b8-b917-8b5d278887aa"/> </td>
+    <td>Camp Retro is an interactive game where a user signs up as a camper at Camp Retro, plays games, gains tokens, and wins retro prizes.</td>
+    <td>◦ React<br>◦ Python<br>◦ Flask<br>◦SQLAlchemy<br>◦ SQLite<br>◦Tailwind</td>
+    <td>◦ Virtual Lunchbox<br>◦ 'Rock, Paper, Scissors' Game<br>◦ Retro prizes</td>
+    <td><a href="https://github.com/dxyz773/camp_retro">Repo</a> </td>
+  </tr>
+
+
+
+
+  <tr>
+    <td>Candy Cravers</td>
+    <td><img width="1440" alt="candyCraversAbout" src="https://github.com/dxyz773/dxyz773/assets/102256981/252deafd-cb0d-4150-8c7b-b6dfdb8c2abb">
+</td>
+    <td>Your one stop shop for candy. Shop all candy or find the perfect sweet treat by occasion.</td>
+    <td>◦ React<br>◦React Router<br>◦ JSON server<br>◦ Bootstrap</td>
+    <td>◦ Shop candy by Occasion<br>◦ Filter candy <br>◦ Add Candy to shopping cart</td>
+    <td><a href="https://github.com/djones02/Candy-Cravers">Repo</a></td>
+  </tr>
+</table>
+
 <p>
   <h3>Tech Tools</h3>
   <a href="https://skillicons.dev">
