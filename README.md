@@ -30,13 +30,24 @@
     <td><img width="1440" alt="candyCraversAbout" src="https://github.com/dxyz773/dxyz773/assets/102256981/252deafd-cb0d-4150-8c7b-b6dfdb8c2abb">
 </td>
     <td>Your one stop shop for candy. Shop all candy or find the perfect sweet treat by occasion.</td>
-    <td>◦ React<br>◦React Router<br>◦ JSON server<br>◦ Bootstrap</td>
+    <td>◦ React<br>◦ React Router-v6<br>◦ JSON server<br>◦ Bootstrap</td>
     <td>◦ Shop candy by Occasion<br>◦ Filter candy <br>◦ Add Candy to shopping cart</td>
     <td><a href="https://github.com/djones02/Candy-Cravers">Repo</a></td>
   </tr>
+  <tr>
+    <td>Smash Or Trash</td>
+    <td> <img width="350" alt="SmashOrTrashHomepage" src="https://github.com/dxyz773/dxyz773/assets/102256981/f87a53fa-bb9a-44af-a8be-9732da0ebd01">
+</td>
+    <td>Top 5 movie site. You decide whether a movie is a SMASH or needs to be TRASHed. Add YOUR favorite films to the list. </td>
+    <td>◦ Vanilla JavaScript<br>◦ JSON server<br>◦ CSS </td>
+    <td>◦Find the top 5 highest grossing US movies of all time<br>◦ Add movies to User Favorites <br>◦Comment on movies you love and love to hate</td>
+    <td><a href="https://github.com/dxyz773/smash-or-trash">Repo</a></td>
+  </tr>
 </table>
 
+
 <p>
+
   <h3>Tech Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,react,vite,flask,tailwind,css,html" />
