@@ -40,7 +40,7 @@
 </td>
     <td>Top 5 movie site. You decide whether a movie is a SMASH or needs to be TRASHed. Add YOUR favorite films to the list. </td>
     <td>◦ Vanilla JavaScript<br>◦ JSON server<br>◦ CSS </td>
-    <td>◦Find the top 5 highest grossing US movies of all time<br>◦ Add movies to User Favorites <br>◦Comment on movies you love and love to hate</td>
+    <td>◦Find top 5 US movies <br>◦ Add movies to User Favorites <br>◦Comment on movies you love and love to hate</td>
     <td><a href="https://github.com/dxyz773/smash-or-trash">Repo</a></td>
   </tr>
 </table>
