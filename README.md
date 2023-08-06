@@ -16,7 +16,7 @@
   <tr>
     <td> Camp Retro ✿ </td>
     <td><img width="350" alt="CampRetro" src="https://github.com/dxyz773/dxyz773/assets/102256981/13b0907f-8f90-41b8-b917-8b5d278887aa"/> </td>
-    <td>Camp Retro is an interactive game where a user signs up as a camper at Camp Retro, plays games, gains tokens, and wins retro prizes.</td>
+    <td>Camp Retro is an interactive game where users sign up, make a camper profile, play games, and win retro prizes.</td>
     <td>◦ React<br>◦ Python<br>◦ Flask<br>◦SQLAlchemy<br>◦ SQLite<br>◦Tailwind</td>
     <td>◦ Virtual Lunchbox<br>◦ 'Rock, Paper, Scissors' Game<br>◦ Retro prizes</td>
     <td><a href="https://github.com/dxyz773/camp_retro">Repo</a> </td>
@@ -31,16 +31,16 @@
 </td>
     <td>Your one stop shop for candy. Shop all candy or find the perfect sweet treat by occasion.</td>
     <td>◦ React<br>◦ React Router-v6<br>◦ JSON server<br>◦ Bootstrap</td>
-    <td>◦ Shop candy by Occasion<br>◦ Filter candy <br>◦ Add Candy to shopping cart</td>
+    <td>◦ Shop candy by occasion: Valentine's Day, Halloween, or Easter  </td>
     <td><a href="https://github.com/djones02/Candy-Cravers">Repo</a></td>
   </tr>
   <tr>
     <td>Smash Or Trash</td>
     <td> <img width="350" alt="SmashOrTrashHomepage" src="https://github.com/dxyz773/dxyz773/assets/102256981/f87a53fa-bb9a-44af-a8be-9732da0ebd01">
 </td>
-    <td>Top 5 movie site. You decide whether a movie is a SMASH or needs to be TRASHed. Add YOUR favorite films to the list. </td>
+    <td>Top 5 movie site. Users decide whether a movie is a SMASH or needs to be TRASHed. Add YOUR favorite films to the list. </td>
     <td>◦ Vanilla JavaScript<br>◦ JSON server<br>◦ CSS </td>
-    <td>◦Find top 5 US movies <br>◦ Add movies to User Favorites <br>◦Comment on movies you love and love to hate</td>
+    <td>◦ Find top 5 US movies <br>◦ Add movies to User Favorites <br>◦ Comment on movies you love and love to hate</td>
     <td><a href="https://github.com/dxyz773/smash-or-trash">Repo</a></td>
   </tr>
 </table>
