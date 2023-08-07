@@ -64,14 +64,18 @@
 
 ---
 
-
 ### IDEs / Code Editors 
 <a href="https://replit.com/@dxyz773" ><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/></a>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <a href="https://codesandbox.io/u/dxyz773" ><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
 
+----
 
-
+<details>
+<summary>Inspiration - Never Forget</summary>
+<br>
+<img src="https://github.com/dxyz773/dxyz773/assets/102256981/bf3e7cbb-ef5c-46da-b859-21b5b29c3023" width="400"/>
+</details>
 
 ----
 
