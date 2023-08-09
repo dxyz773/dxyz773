@@ -22,9 +22,6 @@
     <td><a href="https://github.com/dxyz773/camp_retro">Repo</a> </td>
   </tr>
 
-
-
-
   <tr>
     <td>Candy Cravers</td>
     <td><img width="1440" alt="candyCraversAbout" src="https://github.com/dxyz773/dxyz773/assets/102256981/252deafd-cb0d-4150-8c7b-b6dfdb8c2abb">
@@ -72,9 +69,10 @@
 ----
 
 <details>
-<summary>Inspiration - Never Forget</summary>
+<summary>A little Inspiration ⭐️</summary>
 <br>
 <img src="https://github.com/dxyz773/dxyz773/assets/102256981/bf3e7cbb-ef5c-46da-b859-21b5b29c3023" width="400"/>
+
 </details>
 
 ----
