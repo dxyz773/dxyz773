@@ -1,5 +1,14 @@
 
-<img width="558" alt="Photo3" src="https://github.com/dxyz773/dxyz773/assets/102256981/e1272f93-19c9-4a40-a392-22209b1ae2c9">
+## About me:
+
+Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
+
+- 🎬 My previous career was in the Entertainment industry as an Actor 
+- 🪴 Currently working on a houseplant e-commerce web application.
+- 👩🏾‍💻 Next on my list to learn is Gatsby JS and GraphQL 
+- 🗝️ A fun fact about meI have a weird knack for cracking combination codes  
+- 🎤 When I’m not coding, you will find me drinking iced coffee, singing at karaoke, eating dumplings, watering plants, or obsessing over an adorable kitty 🐈‍⬛ 
+
 
 
 ----
