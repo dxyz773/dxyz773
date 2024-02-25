@@ -1,17 +1,17 @@
 
-## About me:
-
 ![magic](https://media.giphy.com/media/auA7QtdqknAHjSVoFG/giphy.gif)
 ![fire](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 
-Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
+---
+# About me:
+
+#### Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
 
 - 🎬 My previous career was in the Entertainment industry as an Actor 
 - 🪴 Currently working on a houseplant e-commerce web application.
 - 👩🏾‍💻 Next on my list to learn is Gatsby JS and GraphQL 
-- 🗝️ A fun fact about meI have a weird knack for cracking combination codes  
+- 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
 - 🎤 When I’m not coding, you will find me drinking iced coffee, singing at karaoke, eating dumplings, watering plants, or obsessing over an adorable kitty 🐈‍⬛ 
-
 
 
 ----
@@ -59,7 +59,7 @@ Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack
 
   <h3>Tech Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,vite,flask,tailwind,css,html" />
+    <img src="https://skillicons.dev/icons?i=js,react,vite,redux,py,flask,supabase,tailwind,materialui,css,html" />
   </a> 
 </p>
 
@@ -81,11 +81,12 @@ Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack
 
 ----
 
-<details>
-<summary>A little Inspiration ⭐️</summary>
-<br>
-<img src="https://github.com/dxyz773/dxyz773/assets/102256981/bf3e7cbb-ef5c-46da-b859-21b5b29c3023" width="400"/>
 
+
+<details>
+<summary>Click For Cutness</summary>
+<br>
+<img src="https://github.com/dxyz773/dxyz773/assets/102256981/fb9fe42e-f6f6-429d-b1c4-1075795df25f"/>
 </details>
 
 ----
