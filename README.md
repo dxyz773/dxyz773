@@ -9,7 +9,7 @@
 
 - 🎬 My previous career was in the Entertainment industry as an Actor 
 - 🪴 Currently working on a houseplant e-commerce web application.
-- 👩🏾‍💻 Next on my list to learn is Gatsby JS and GraphQL 
+- 👩🏾‍💻 Next on my list to learn is Gatsby and GraphQL 
 - 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
 - 🎤 When I’m not coding, you will find me drinking iced coffee, singing at karaoke, eating dumplings, watering plants, or obsessing over an adorable kitty 🐈‍⬛ 
 
