@@ -2,9 +2,7 @@
 ## About me:
 
 ![magic](https://media.giphy.com/media/auA7QtdqknAHjSVoFG/giphy.gif)
-
-
-![magic](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)                          
+![fire](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 
 Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
 
