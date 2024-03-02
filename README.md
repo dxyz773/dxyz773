@@ -11,7 +11,7 @@
 - 🪴 Currently working on a houseplant e-commerce web application.
 - 👩🏾‍💻 Next on my list to learn is Gatsby and GraphQL 
 - 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
-- 🎤 When I’m not coding, you will find me drinking iced coffee, singing at karaoke, eating dumplings, watering plants, or obsessing over an adorable kitty 🐈‍⬛ 
+- 🎤 When I’m not coding, you will find me drinking iced coffee, singing karaoke, eating dumplings, watering plants, and obsessing over an adorable kitty 🐈‍⬛ 
 
 
 ----
