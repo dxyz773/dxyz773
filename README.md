@@ -23,8 +23,16 @@
     <th>Description</th>
     <th>Tech Stack</th>
     <th>Features</th>
-    <th>Repo</th>
+    <th>Repo + Live</th>
   </thead>
+  <tr>
+    <td> petite Leaf 🌿 </td>
+    <td><img width="350" alt="petite_leaf_homepage_1" src="https://github.com/dxyz773/dxyz773/assets/102256981/2b34343f-f0fe-47a2-801b-50dd3d43847d"/></td>
+    <td>Petite Leaf: Where luxury meets botanical elegance in a seamless online shopping experience, offering curated greenery to elevate your living spaces.</td>
+    <td>◦ React<br>◦ Redux/Redux Toolkit<br>◦ React Query<br>◦ Supabse<br>◦ Ant Design<br>◦ Tailwind</td>
+    <td>◦ Shop, search, sort, filter, and order plants <br>◦ User account, order history, and favorites<br>◦ Plant parent tips from Botanical Journal</td>
+    <td><a href="https://petite-leaf.vercel.app/">Live</a> </td>
+  </tr>
   <tr>
     <td> Camp Retro ✿ </td>
     <td><img width="350" alt="CampRetro" src="https://github.com/dxyz773/dxyz773/assets/102256981/13b0907f-8f90-41b8-b917-8b5d278887aa"/> </td>
