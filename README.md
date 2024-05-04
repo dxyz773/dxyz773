@@ -8,8 +8,8 @@
 #### Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
 
 - 🎬 My previous career was in the Entertainment industry as an Actor 
-- 🪴 Currently working on a houseplant e-commerce web application.
-- 👩🏾‍💻 Next on my list to learn is Gatsby and GraphQL 
+- 🪴 Currently deployed personal project, <a href="https://petite-leaf.vercel.app/">Petite Leaf</a> - An e-commerce web application for plant lovers.
+- 👩🏾‍💻 Currently learning Node.js
 - 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
 - 🎤 When I’m not coding, you will find me drinking iced coffee, singing karaoke, eating dumplings, watering plants, and obsessing over an adorable kitty 🐈‍⬛ 
 
