@@ -9,7 +9,7 @@
 
 - 🎬 My previous career was in the Entertainment industry as an Actor 
 - 🪴 Recently deployed personal project, <a href="https://petite-leaf.vercel.app/">Petite Leaf</a> - An e-commerce web application for plant lovers.
-- 👩🏾‍💻 Currently learning Gatsby.js and Node.js
+- 👩🏾‍💻 Currently learning Gatsby.js, WordPress, GraphQL
 - 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
 - 🎤 When I’m not coding, you will find me drinking iced coffee, singing karaoke, eating dumplings, watering plants, and obsessing over an adorable kitty 🐈‍⬛ 
 
