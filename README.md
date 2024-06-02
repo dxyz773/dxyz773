@@ -1,5 +1,7 @@
 
-![magic](https://media.giphy.com/media/auA7QtdqknAHjSVoFG/giphy.gif)
+
+
+![Monstera](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6eXVvYXQxdDZzYWdua3JnOWFkOWdsNHh4aTB2cTg5eTZmMXJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKXxK93HCyE2f7QKS4/giphy.gif)
 
 
 ---
@@ -9,7 +11,7 @@
 
 - 🎬 My previous career was in the Entertainment industry as an Actor 
 - 🪴 Recently deployed personal project, <a href="https://petite-leaf.vercel.app/">Petite Leaf</a> - An e-commerce web application for plant lovers.
-- 👩🏾‍💻 Currently learning Next.js
+- 👩🏾‍💻 Currently learning TypeScript and Next.js
 - 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
 - 🎤 When I’m not coding, you will find me drinking iced coffee, singing karaoke, eating dumplings, watering plants, and obsessing over an adorable kitty 🐈‍⬛ 
 
