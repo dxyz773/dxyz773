@@ -7,13 +7,13 @@
 ---
 # About me:
 
-#### Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer and dedicated lifelong learner.
+#### Hello! My name is Demitry [‘dem-a-tree']. I also go by DXYZ. I am a Full-Stack Software Developer.
 
-- 🎬 My previous career was in the Entertainment industry as an Actor 
-- 🪴 Recently deployed personal project, <a href="https://petite-leaf.vercel.app/">Petite Leaf</a> - An e-commerce web application for plant lovers.
-- 👩🏾‍💻 Currently learning: Node.js
-- 🗝️ A fun fact about me is that I have a weird knack for cracking combination codes  
-- 🎤 When I’m not coding, you will find me drinking iced coffee, singing karaoke, eating dumplings, watering plants, and obsessing over an adorable kitty 🐈‍⬛ 
+- 🐺 🎮 Currently creating a multi-player web game application
+- 🪴 Most recent project, <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
+- 🎬 Previous career was in the Entertainment industry as an Actor
+- 🗝️ Fun fact - I have a weird knack for cracking combination locks  
+- 🎤 When not coding, you will find me iced coffee in-hand, watering plants and obsessing over an adorable kitty 🐈‍⬛ 
 
 
 ----
