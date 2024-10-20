@@ -13,7 +13,7 @@
 - 👩🏾‍💻 Currently learning: AWS & Java
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
 - 🎬 Previous career: Actress
-- 🗝️ Fun fact: I have a weird knack for cracking combination locks  
+- 🗝️ Fun facts: I attended Montessori school from Pre-K - Middle School, and I have a weird knack for cracking combination locks  
 - 🎤 When not coding, you will find me iced coffee in-hand, watering plants and obsessing over an adorable kitty 🐈‍⬛ 
 
 
