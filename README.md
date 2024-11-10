@@ -9,8 +9,7 @@
 
 #### Hello, my name is Demitry [‘dem-a-tree'], and I am a Software Developer.
 
-- 🎮 Actively creating: 🐺 A modern cry_wolf web game
-- 👩🏾‍💻 Currently learning: AWS & Java
+- 🎮 Current project: 🐺 A modern cry_wolf web game
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
 - 🎬 Previous career: Actress
 - 🗝️ Fun facts: I attended Montessori school from Pre-K - Middle School, and I have a weird knack for cracking combination locks  
