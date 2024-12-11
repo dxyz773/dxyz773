@@ -32,7 +32,7 @@
     <td><img width="1161" alt="petite_leaf_velvet_philodendron" src="https://github.com/user-attachments/assets/85f2107f-1c65-4b2e-af87-6cb47ddcf7a0"></td>
     <td>Petite Leaf: Where luxury meets botanical elegance in a seamless online shopping experience, offering curated greenery to elevate your living spaces.</td>
     <td>◦ React<br>◦ Redux - Redux Toolkit<br>◦ React Query<br>◦ Supabse<br>◦ Ant Design<br>◦ Tailwind</td>
-    <td>◦ Shop, search, sort, filter, and order plants <br>◦ User account, order history, and favorites<br>◦ Plant parent tips from Botanical Journal</td>
+    <td>◦ Shop, search, sort, filter, and order plants <br>◦ User account, order history, and favorites<br>◦ Plant tips from Botanical Journal</td>
     <td><a href="https://petite-leaf.vercel.app/">Live</a> </td>
   </tr>
   <tr>
