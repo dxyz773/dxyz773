@@ -99,7 +99,4 @@
 <img src="https://github.com/dxyz773/dxyz773/assets/102256981/fb9fe42e-f6f6-429d-b1c4-1075795df25f"/>
 </details>
 
-----
 
-### ☆ Github Stats 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dxyz773&theme=modern-lilac2)](https://git.io/streak-stats)
