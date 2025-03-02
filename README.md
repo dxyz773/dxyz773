@@ -10,9 +10,10 @@
 #### Hello, my name is Demitry [‘dem-a-tree'], and I am a Software Developer.
 
 - 🎮 Current project: 🐺 A modern cry_wolf web game
+- 🖥️ Developer: <a href="https://demitry-edwards.vercel.app/">Portfolio</a>
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
-- 🎬 Previous career: Actress
-- 🗝️ Fun facts: I attended Montessori school from Pre-K - Middle School, and I have a weird knack for cracking combination locks  
+- 👩🏾‍💻 Currently studying: PHP
+- 🗝️ Fun facts: I used to be an actress, and I have a weird knack for cracking combination locks  
 - 🎤 When not coding, you will find me iced coffee in-hand, watering plants and obsessing over an adorable kitty 🐈‍⬛ 
 
 
@@ -27,6 +28,14 @@
     <th>Features</th>
     <th>Repo + Live</th>
   </thead>
+   <tr>
+    <td> Portfolio </td>
+    <td><img width="1161" alt="portfolio_screenshot" src="https://github.com/user-attachments/assets/52fe9ea1-ea7f-40d8-8667-d860f5567be4"></td>
+    <td> Web application showcasing developer projects, and previous work and volunteer experience. </td>
+    <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
+    <td>◦ Desktop & mobile responsive web design <br>◦ Video project showcase <br>◦ Light / dark toggle</td>
+    <td><a href="https://demitry-edwards.vercel.app/">Live</a> </td>
+  </tr>
   <tr>
     <td> petite Leaf 🌿 </td>
     <td><img width="1161" alt="petite_leaf_velvet_philodendron" src="https://github.com/user-attachments/assets/85f2107f-1c65-4b2e-af87-6cb47ddcf7a0"></td>
