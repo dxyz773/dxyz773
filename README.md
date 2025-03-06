@@ -12,7 +12,7 @@
 - 🎮 Current project: 🐺 A modern cry_wolf web game
 - 🖥️ Developer: <a href="https://demitry-edwards.vercel.app/">Portfolio</a>
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
-- 👩🏾‍💻 Currently studying: PHP
+- 👩🏾‍💻 Currently studying: C++
 - 🗝️ Fun facts: I used to be an actress, and I have a weird knack for cracking combination locks  
 - 🎤 When not coding, you will find me iced coffee in-hand, watering plants and obsessing over an adorable kitty 🐈‍⬛ 
 
