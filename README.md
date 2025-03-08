@@ -9,7 +9,7 @@
 
 #### Hello, my name is Demitry [‘dem-a-tree'], and I am a Software Developer.
 
-- 🎮 Current project: 🐺 A modern cry_wolf web game
+- 🛍️ Current project: A platform to empower communities to connect and thrive in a decolonized digital world.
 - 🖥️ Developer: <a href="https://demitry-edwards.vercel.app/">Portfolio</a>
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
 - 👩🏾‍💻 Currently studying: C++
