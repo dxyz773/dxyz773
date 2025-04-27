@@ -12,7 +12,7 @@
 - 🛍️ Current project: A platform to empower communities to connect and thrive in a decolonized digital world.
 - 🖥️ Developer: <a href="https://demitry-edwards.vercel.app/">Portfolio</a>
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
-- 👩🏾‍💻 Currently studying: C++
+- 👩🏾‍💻 Currently studying: Node.js
 - 🗝️ Fun facts: I used to be an actress, and I have a weird knack for cracking combination locks  
 - 🎤 When not coding, you will find me iced coffee in-hand, watering plants and obsessing over an adorable kitty 🐈‍⬛ 
 
