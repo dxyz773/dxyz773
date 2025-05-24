@@ -33,7 +33,7 @@
     <td><img width="1161" alt="portfolio_screenshot" src="https://github.com/user-attachments/assets/52fe9ea1-ea7f-40d8-8667-d860f5567be4"></td>
     <td> Web application showcasing developer projects, and previous work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
-    <td>◦ Desktop & mobile responsive web design <br>◦ Video project showcase <br>◦ Light / dark toggle</td>
+    <td>◦ Desktop & mobile responsive web design <br>◦ Video project showcase
     <td><a href="https://demitry-edwards.vercel.app/">Live</a> </td>
   </tr>
   <tr>
