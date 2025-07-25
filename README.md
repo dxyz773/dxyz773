@@ -78,7 +78,7 @@
 
   <h3>Tech Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,redux,py,flask,supabase,tailwind,materialui,css,html" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,mongodb,vite,py,flask,supabase,tailwind,materialui,css,html" />
   </a> 
 </p>
 
