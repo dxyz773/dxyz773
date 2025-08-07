@@ -30,8 +30,9 @@
   </thead>
    <tr>
     <td> Portfolio </td>
-    <td><img width="1161" alt="portfolio_screenshot" src="https://github.com/user-attachments/assets/52fe9ea1-ea7f-40d8-8667-d860f5567be4"></td>
-    <td> Web application showcasing developer projects, and previous work and volunteer experience. </td>
+    <td><img width="1282" height="730" alt="portfolio_img" src="https://github.com/user-attachments/assets/c77f50b4-c109-41a9-be07-3729d1ac5a45" /></td>
+    <td> Web application showcasing developer projects, and previous
+ work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
     <td>◦ Desktop & mobile responsive web design <br>◦ Video project showcase
     <td><a href="https://demitry-edwards.vercel.app/">Live</a> </td>
