@@ -10,7 +10,7 @@
 #### Hello, my name is Demitry [‘dem-a-tree'], and I am a Software Developer.
 
 - 🛍️ Current project: A platform to empower communities to connect and thrive in a decolonized digital world.
-- 🖥️ Developer: <a href="https://demitry-edwards.vercel.app/">Portfolio</a>
+- 🖥️ Developer: <a href="https://www.demitryedwards.com/">Portfolio</a>
 - 🪴 Recently deployed: <a href="https://petite-leaf.vercel.app/">petite leaf</a> - An e-commerce web application for plant lovers.
 - 👩🏾‍💻 Currently studying: Node.js and MongoDB
 - 🗝️ Fun facts: I used to be an actress, and I have a weird knack for cracking combination locks  
@@ -30,7 +30,7 @@
   </thead>
    <tr>
     <td> Portfolio </td>
-    <td><img width="1282" height="730" alt="portfolio_img" src="https://github.com/user-attachments/assets/c77f50b4-c109-41a9-be07-3729d1ac5a45" /></td>
+    <td><img width="1161" height="718" alt="newPortfolioImg" src="https://github.com/user-attachments/assets/57fc7659-c85d-41b2-8948-61fb91947580" /></td>
     <td> Web application showcasing developer projects, and previous
  work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
@@ -40,7 +40,8 @@
   <tr>
     <td> petite Leaf 🌿 </td>
     <td><img width="1161" alt="petite_leaf_velvet_philodendron" src="https://github.com/user-attachments/assets/85f2107f-1c65-4b2e-af87-6cb47ddcf7a0"></td>
-    <td>Petite Leaf: Where luxury meets botanical elegance in a seamless online shopping experience, offering curated greenery to elevate your living spaces.</td>
+
+  <td>Petite Leaf: Where luxury meets botanical elegance in a seamless online shopping experience, offering curated greenery to elevate your living spaces.</td>
     <td>◦ React<br>◦ Redux - Redux Toolkit<br>◦ React Query<br>◦ Supabse<br>◦ Ant Design<br>◦ Tailwind</td>
     <td>◦ Shop, search, sort, filter, and order plants <br>◦ User account, order history, and favorites<br>◦ Plant tips from Botanical Journal</td>
     <td><a href="https://petite-leaf.vercel.app/">Live</a> </td>
