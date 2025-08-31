@@ -35,7 +35,7 @@
  work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
     <td>◦ Desktop & mobile responsive web design <br>◦ Video project showcase
-    <td><a href="https://demitry-edwards.vercel.app/">Live</a> </td>
+    <td><a href="https://www.demitryedwards.com/">Live</a> </td>
   </tr>
   <tr>
     <td> petite Leaf 🌿 </td>
