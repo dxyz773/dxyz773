@@ -30,7 +30,7 @@
   </thead>
    <tr>
     <td> Portfolio </td>
-    <td><img width="1161" height="718" alt="newPortfolioImg" src="https://github.com/user-attachments/assets/57fc7659-c85d-41b2-8948-61fb91947580" /></td>
+    <td><img width="1161" height="718" alt="porfolio_img_2025" src="https://github.com/user-attachments/assets/7f7e982d-43fb-492a-9b21-0c8079945a96" /></td>
     <td> Web application showcasing developer projects, and previous
  work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
