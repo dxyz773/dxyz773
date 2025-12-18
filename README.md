@@ -29,8 +29,8 @@
     <th>Repo + Live</th>
   </thead>
    <tr>
-    <td> Portfolio </td>
-    <td><img width="1161" alt="porfolio_img_2025" src="https://github.com/user-attachments/assets/7f7e982d-43fb-492a-9b21-0c8079945a96" /></td>
+<td> Portfolio </td>
+    <td><img width="1233" height="713" alt="updatedResumeImg12_18_2025" src="https://github.com/user-attachments/assets/ef47a252-3f96-4839-907d-7902602f035a" /></td>
     <td> Web application showcasing developer projects, and previous
  work and volunteer experience. </td>
     <td>◦ TypeScript<br>◦ JavaScript<br>◦ React<br>◦ Supabase<br>◦ Tailwind</td>
